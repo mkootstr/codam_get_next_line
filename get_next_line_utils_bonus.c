@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        ::::::::            */
-/*   get_next_line_utils.c                              :+:    :+:            */
+/*   get_next_line_utils_bonus.c                        :+:    :+:            */
 /*                                                     +:+                    */
 /*   By: mkootstr <mkootstr@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2021/09/26 16:29:45 by mkootstr      #+#    #+#                 */
+/*   Created: 2021/10/25 17:11:33 by mkootstr      #+#    #+#                 */
 /*   Updated: 2021/10/25 18:10:19 by mkootstr      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include	"get_next_line.h"
+#include	"get_next_line_bonus.h"
 
 char	*ft_strndup(const char *src, size_t n)
 {

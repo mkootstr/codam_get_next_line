@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        ::::::::            */
-/*   get_next_line.h                                    :+:    :+:            */
+/*   get_next_line_bonus.h                              :+:    :+:            */
 /*                                                     +:+                    */
 /*   By: mkootstr <mkootstr@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2021/09/26 16:30:40 by mkootstr      #+#    #+#                 */
-/*   Updated: 2021/10/25 17:02:36 by mkootstr      ########   odam.nl         */
+/*   Created: 2021/10/25 17:11:41 by mkootstr      #+#    #+#                 */
+/*   Updated: 2021/10/25 17:15:04 by mkootstr      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef GET_NEXT_LINE_H
-# define GET_NEXT_LINE_H
+#ifndef GET_NEXT_LINE_BONUS_H
+# define GET_NEXT_LINE_BONUS_H
 # include <stddef.h>
 # include <stdlib.h>
 # include <unistd.h>
